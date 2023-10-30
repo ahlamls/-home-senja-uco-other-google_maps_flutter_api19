@@ -1,4 +1,4 @@
-# Google Maps for Flutter
+# Google Maps for Flutter WITH FORCED KITKAT API 19 SUPPORT
 
 <?code-excerpt path-base="example/lib"?>
 
@@ -8,7 +8,7 @@ A Flutter plugin that provides a [Google Maps](https://developers.google.com/map
 
 |             | Android | iOS     | Web                              |
 |-------------|---------|---------|----------------------------------|
-| **Support** | SDK 20+ | iOS 11+ | Same as [Flutter's][web-support] |
+| **Support** | SDK 19+ | iOS 11+ | Same as [Flutter's][web-support] |
 
 [web-support]: https://docs.flutter.dev/reference/supported-platforms
 
